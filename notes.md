@@ -1,10 +1,7 @@
-1.Every day when I arrive, write
-
-  1.In the terminal write - “apm update”
-
-  2.Open Atom from the command line - NEVER OPEN IT ANOTHER WAY
-
-  3.Open Slack - the desktop application, not in a browser
+1.  Every day when I arrive, write
+  .   In the terminal write - “apm update”
+  .   Open Atom from the command line - NEVER OPEN IT ANOTHER WAY
+  .   Open Slack - the desktop application, not in a browser
 
 2.For diagnostics
 
